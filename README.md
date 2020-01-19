@@ -1,3 +1,33 @@
+# Suricata
+
+**Suricata** 는 오픈 소스 기반의 침입 탐지 시스템과 침입 방지 시스템이다.
+
+Open Information Security 재단에 의해 개발되었다.
+
+베타 버전은 2009년 12월에 출시되었으며, 2010년 7월에 이어 첫 번째 표준 릴리즈가 출시되었다.
+
+![image](https://user-images.githubusercontent.com/41619898/76156314-22eb4f00-613c-11ea-9989-844cec46efd6.png)
+
+```
+Suricata is a free and open source, mature, fast and robust network threat detection engine.
+
+The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing.
+
+Suricata inspects the network traffic using a powerful and extensive rules and signature language, and has powerful Lua scripting support for detection of complex threats.
+
+With standard input and output formats like YAML and JSON integrations with tools like existing SIEMs, Splunk, Logstash/Elasticsearch, Kibana, and other database become effortless.
+
+Suricata’s fast paced community driven development focuses on security, usability and efficiency.
+
+The Suricata project and code is owned and supported by the Open Information Security Foundation (OISF), a non-profit foundation committed to ensuring Suricata’s development and sustained success as an open source project.
+```
+
+
+
+------
+
+
+
 ## OpenWRT Suricata package
 
 OpenWRT/LEDE Suricata package based on suricata 4.0.4. Pre-configured to support inline IPS mode.
@@ -15,6 +45,8 @@ Currently, you will need to manually enable the "compile with full language supp
 - https://wiki.openwrt.org/doc/devel/feeds
 
 
+
+-------
 
 
 
