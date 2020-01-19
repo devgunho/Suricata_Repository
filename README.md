@@ -23,7 +23,8 @@ SIEMs, Splunk, Logstash/Elasticsearch, Kibana, and other database become effortl
 Suricata’s fast paced community driven development focuses on security, usability and efficiency.
 
 The Suricata project and code is owned and supported by the Open Information Security Foundation (OISF),
-a non-profit foundation committed to ensuring Suricata’s development and sustained success as an open source project.
+a non-profit foundation committed to ensuring Suricata’s development 
+and sustained success as an open source project.
 ```
 
 
